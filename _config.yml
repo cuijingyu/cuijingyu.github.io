@@ -1,5 +1,5 @@
-repository: cuijingyu/cuijingyu
-repository_url: https://gitee.com/cuijingyu/cuijingyu
+repository: cuijingyu/cuijingyu.github.io
+repository_url: https://github.com/cuijingyu/cuijingyu.github.io
 
 timezone: Asia/Shanghai
 lang: zh_CN
@@ -12,10 +12,10 @@ keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation, 测试版keywo
 url: http://cuijingyu.gitee.io
 established_at: "2020-1-07T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: http://cuijingyu.gitee.io
+author: 作者
+author_url: https://cuijingyu.github.io
 organization: TEELAB
-organization_url: http://cuijingyu.gitee.io
+organization_url: https://cuijingyu.github.io
 contact: contact[at]irockbunny[dot]com
 
 image: /images/logo.png
